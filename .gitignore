@@ -1,0 +1,8 @@
+.env
+access.json
+.venv/
+__pycache__/
+*.pyc
+mcp_config.json
+PLAN-on-demand-runtime.md
+.claude/settings.local.json

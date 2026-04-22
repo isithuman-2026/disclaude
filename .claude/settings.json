@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__discord__reply",
+      "mcp__discord__fetch_messages",
+      "mcp__discord__react",
+      "mcp__discord__edit_message",
+      "mcp__discord__download_attachment"
+    ],
+    "deny": []
+  }
+}
